@@ -8,8 +8,8 @@ Como estudiante aveces no tengo dinero para comprar la papelería necesaria de e
 ## Diagramas
 Diagrama Entidad relación
 
-[![Captura-desde-2022-08-14-20-54-47.png](https://i.postimg.cc/PrrHwtcT/Captura-desde-2022-08-14-20-54-47.png)](https://postimg.cc/Rq82rz4D)
+[![Entidad-Relacion.png](https://i.postimg.cc/NF3yC5Z9/Entidad-Relacion.png)](https://postimg.cc/QKqxHx8h)
 
 Diagrama Relacional 
 
-[![Relacional.png](https://i.postimg.cc/nzz5LzrP/Relacional.png)](https://postimg.cc/4KDwLXz6)
+[![Relacional.png](https://i.postimg.cc/j594H6Qy/Relacional.png)](https://postimg.cc/mzY9RHnr)
