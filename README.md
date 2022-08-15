@@ -12,4 +12,4 @@ Diagrama Entidad relación
 
 Diagrama Relacional 
 
-[![Relacional.png](https://i.postimg.cc/j594H6Qy/Relacional.png)](https://postimg.cc/mzY9RHnr)
+[![Captura-desde-2022-08-14-22-16-57.png](https://i.postimg.cc/SQfKzQSx/Captura-desde-2022-08-14-22-16-57.png)](https://postimg.cc/w33zCpRC)
